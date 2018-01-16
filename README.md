@@ -1,2 +1,2 @@
-# test
-test
+The method used to populate the data structure uses random parameters for the entities, buy / sell flags and currency. Regarding the dates, the same time period is always taken using a day + 1 for the settlementDate in order to apply the working weeks shown in the assignment.
+Also from the assignment the entities have been set up with flag buy as the entity in outgoing and consequently the entities with flag sell as the entity in incoming.
